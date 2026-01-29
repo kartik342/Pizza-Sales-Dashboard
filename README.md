@@ -54,3 +54,6 @@ Optimize inventory and staffing for peak periods
 Identify underperforming menu items
 Understand customer buying behavior
 
+## 6. Screenshots
+Home Page Preview - ![Home Page](https://github.com/kartik342/Pizza-Sales-Dashboard/blob/main/Screenshot%202026-01-30%20011943.png)
+Second Page Preview - ![Second Page](https://github.com/kartik342/Pizza-Sales-Dashboard/blob/main/Screenshot%202026-01-30%20012015.png)
