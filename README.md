@@ -4,7 +4,7 @@
 
 An interactive Power BI dashboard built to analyze pizza sales performance, customer ordering patterns, and product trends across time, categories, and sizes.
 
-## 2. ## 6. Screenshots
+## 2. Screenshots
 
 Home Page Preview - ![Home Page](https://github.com/kartik342/Pizza-Sales-Dashboard/blob/main/Screenshot%202026-01-30%20011943.png)
 Second Page Preview - ![Second Page](https://github.com/kartik342/Pizza-Sales-Dashboard/blob/main/Screenshot%202026-01-30%20012015.png)
